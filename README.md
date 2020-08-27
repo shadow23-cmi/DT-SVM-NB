@@ -1,6 +1,8 @@
-# DT-SVM-NB
+							      DT-SVM-NB
+							Suman Polley MDS201935
+						     Rohit Aich Bhowmick MDS201927
 
-CLASSIFICATION PROBLEM with
+CLASSIFICATION with
 DECISION TREE,SVM,NAIVE BAYESIAN CLASSIFIER
 
  
